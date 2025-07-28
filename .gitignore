@@ -6,4 +6,6 @@
 /uv.lock
 /.idea/
 /.idea/
+/typescript_signing_example/node_modules/
+/typescript_signing_example/.env
 
